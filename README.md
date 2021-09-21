@@ -1,4 +1,4 @@
 # Ejercicios-Bootstrap
 Ejercicios de Bootstrap.
 
-Los ejercicios se encuentran inconclusos. Trabajo en proceso. 
+La mayoria de los ejercicios se encuentran inconclusos. Trabajo en proceso.
